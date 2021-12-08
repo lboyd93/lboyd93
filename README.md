@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=lboyd93&theme=dracula)](https://github.com/lboyd93/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lboyd93&layout=compact)](https://github.com/lboyd93/github-readme-stats)
+
+<a href="https://github.com/lboyd93/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lboyd93&theme=dracula" />
+</a>
+<a href="https://github.com/lboyd93/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lboyd93&layout=compact)" />
+</a>
