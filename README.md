@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/lboyd93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lboyd93&theme=dracula" />
-</a>
-<a href="https://github.com/lboyd93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lboyd93&layout=compact)" />
-</a>
+<p align="center">
+   <a href="https://github.com/lboyd93/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lboyd93&theme=dracula&hide_rank=true&count_private=true&show_icons=true&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/lboyd93/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lboyd93&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+</p>
