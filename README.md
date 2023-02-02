@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lauren 🐝  (she/her/hers) 👩‍💻
 
-I am a Product Engineer working on the amazing [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/) at [Esri](https://www.esri.com/en-us/home)🗺️ and enjoy helping geodevs create awesome web applications 💻
+I am a Product Engineer working on the amazing [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) at [Esri](https://www.esri.com/en-us/home)🗺️ and enjoy helping geodevs create awesome web applications 💻
 
 <p align="center">
    <a href="https://github.com/lboyd93/github-readme-stats">
